@@ -1,0 +1,5 @@
+def function_number(number,fmt):
+    return format(number,fmt)
+
+result=function_number(145,'o')
+print(result)
